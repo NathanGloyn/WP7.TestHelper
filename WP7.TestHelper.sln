@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WP7.TestHelper", "WP7.TestHelper.csproj", "{1E05595F-A1E3-400C-A261-62FF6A855D5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E05595F-A1E3-400C-A261-62FF6A855D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E05595F-A1E3-400C-A261-62FF6A855D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E05595F-A1E3-400C-A261-62FF6A855D5F}.Debug|ARM.ActiveCfg = Debug|ARM
+		{1E05595F-A1E3-400C-A261-62FF6A855D5F}.Debug|ARM.Build.0 = Debug|ARM
+		{1E05595F-A1E3-400C-A261-62FF6A855D5F}.Debug|x86.ActiveCfg = Debug|x86
+		{1E05595F-A1E3-400C-A261-62FF6A855D5F}.Debug|x86.Build.0 = Debug|x86
+		{1E05595F-A1E3-400C-A261-62FF6A855D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E05595F-A1E3-400C-A261-62FF6A855D5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E05595F-A1E3-400C-A261-62FF6A855D5F}.Release|ARM.ActiveCfg = Release|ARM
+		{1E05595F-A1E3-400C-A261-62FF6A855D5F}.Release|ARM.Build.0 = Release|ARM
+		{1E05595F-A1E3-400C-A261-62FF6A855D5F}.Release|x86.ActiveCfg = Release|x86
+		{1E05595F-A1E3-400C-A261-62FF6A855D5F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
